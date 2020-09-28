@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+.main{
+    background-color: #3274D3;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+.logo{
+    width: 200px;
+}
+.header{
+    padding-top: 30px;
+    text-align: center;
+}
+.judul{
+    color: white;
+    text-align: center;
+}
+.judul h1{
+    margin-top: 80px;
+}
+.judul h3{
+    opacity: 0.8;
+    margin-bottom: 40px;
+}
+.sub-main{
+    background-color: rgb(231, 226, 226);
+    text-align: center;
+    padding: 20px 0;
+    color: black;
+}
+.sub-main p{
+    opacity: 0.5;
+}
+.sub-main a{
+    color: black;
+}
